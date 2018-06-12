@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "986034216192",
+    "firebase_url": "https://amanidiet-a29c8.firebaseio.com",
+    "project_id": "amanidiet-a29c8",
+    "storage_bucket": "amanidiet-a29c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986034216192:android:940457bb53404225",
+        "android_client_info": {
+          "package_name": "com.aslan.amani.amanidiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986034216192-3n8huh3gtomcm82i45g2p49s1kphcvfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aslan.amani.amanidiet",
+            "certificate_hash": "9bd603c29369108434858e7edbb0b697f9a85fe4"
+          }
+        },
+        {
+          "client_id": "986034216192-vljqchan55jo05439266tu30vp9s0t6q.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "986034216192-vljqchan55jo05439266tu30vp9s0t6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0fwSatSs5ZcEkGH51DF6184RkyP30is"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986034216192-vljqchan55jo05439266tu30vp9s0t6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnItmAddAdvice"
+        android:title="Add Advice" />
+    <item
+        android:id="@+id/mnItmAddExercise"
+        android:title="Add Exercise" />
+    <item android:id="@+id/mnItmAddMeal"
+        android:title="Add Meal"/>
+    <item android:id="@+id/mnSignOut"
+        android:title="Sign Out"/>
+
+</menu>
