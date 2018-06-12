@@ -24,6 +24,8 @@ public class AddAdvice extends AppCompatActivity {
     private Button graph;
 
 
+
+    //ftydgg
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
