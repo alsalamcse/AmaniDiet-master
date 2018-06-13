@@ -6,7 +6,7 @@
         android:title="Add Advice" />
     <item
         android:id="@+id/mnItmAddExercise"
-        android:title="Add Exercise" />
+        android:title="Add Weight" />
     <item android:id="@+id/mnItmAddMeal"
         android:title="Add Meal"/>
     <item android:id="@+id/mnSignOut"
